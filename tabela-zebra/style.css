@@ -38,3 +38,8 @@ tbody tr:nth-child(even){
     color: #ffffff;
 } /*Neste elemento são definidas atribuíções nas linhas ímpares*/
 
+tbody tr:hover {
+    background-color: aqua;
+    opacity: 0.5;
+    cursor: pointer;
+}/*Quando passar o mouse realiza um efeito*/
